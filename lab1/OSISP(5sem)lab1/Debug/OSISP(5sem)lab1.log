@@ -1,0 +1,6 @@
+﻿  Source.cpp
+C:\Users\laptop\Desktop\Осисп\OSISP(5sem)lab1\OSISP(5sem)lab1\Source.cpp(75,9): warning C4101: bm: неиспользованная локальная переменная
+C:\Users\laptop\Desktop\Осисп\OSISP(5sem)lab1\OSISP(5sem)lab1\Source.cpp(80,6): warning C4101: prevX: неиспользованная локальная переменная
+C:\Users\laptop\Desktop\Осисп\OSISP(5sem)lab1\OSISP(5sem)lab1\Source.cpp(74,10): warning C4101: hmdc: неиспользованная локальная переменная
+C:\Users\laptop\Desktop\Осисп\OSISP(5sem)lab1\OSISP(5sem)lab1\Source.cpp(80,13): warning C4101: prevY: неиспользованная локальная переменная
+  OSISP(5sem)lab1.vcxproj -> C:\Users\laptop\Desktop\Осисп\OSISP(5sem)lab1\Debug\OSISP(5sem)lab1.exe
