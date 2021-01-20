@@ -1,0 +1,7 @@
+﻿  main.cpp
+C:\Users\laptop\Desktop\Осисп\OSISP(5sem)lab2v2\OSISP(5sem)lab2v2\main.cpp(44,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\laptop\Desktop\Осисп\OSISP(5sem)lab2v2\OSISP(5sem)lab2v2\main.cpp(47,22): warning C4244: =: преобразование "double" в "LONG", возможна потеря данных
+C:\Users\laptop\Desktop\Осисп\OSISP(5sem)lab2v2\OSISP(5sem)lab2v2\main.cpp(50,41): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\laptop\Desktop\Осисп\OSISP(5sem)lab2v2\OSISP(5sem)lab2v2\main.cpp(54,32): warning C4244: =: преобразование "double" в "LONG", возможна потеря данных
+C:\Users\laptop\Desktop\Осисп\OSISP(5sem)lab2v2\OSISP(5sem)lab2v2\main.cpp(55,39): warning C4244: =: преобразование "double" в "LONG", возможна потеря данных
+  OSISP(5sem)lab2v2.vcxproj -> C:\Users\laptop\Desktop\Осисп\OSISP(5sem)lab2v2\Debug\OSISP(5sem)lab2v2.exe
